@@ -11,7 +11,7 @@ This project is a simple Tic Tac Toe game built using React. It provides a class
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/tic-tac-toe.git`
+1. Clone the repository: `git clone https://github.com/nitish1109/Tic-Tac-Toe-Game-.git`
 2. Navigate to the project directory: `cd tic-tac-toe`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
